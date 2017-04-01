@@ -20,7 +20,7 @@ public class Day00_Hello_World {
 	System.out.println("Hello, World.");
       
 	// TODO: Write a line of code here that prints the contents of inputString to stdout.
-        System.out.println("Welcome to 30 Days of Code!");
+        System.out.println(inputString);
     }
     
 }
